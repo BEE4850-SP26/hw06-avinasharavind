@@ -1,4 +1,4 @@
-"Date","Time (GMT)","Predicted (m)","Preliminary (m)","Verified (m)"
+"Date","Time","Predicted","Preliminary","Verified"
 "2015/01/01","00:00","0.48","-","0.616"
 "2015/01/01","01:00","0.325","-","0.432"
 "2015/01/01","02:00","0.145","-","0.242"
